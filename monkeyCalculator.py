@@ -12,8 +12,7 @@ def calculateTime():
         print("Yay! We're going to have a good day!")
     elif monkey_one == "y" and monkey_two == "n":
         print("Yay! We're going to have a good day!")
-    else:
-        print("Invalid entry")
+
 
     # end assignment
 
