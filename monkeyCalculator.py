@@ -8,10 +8,9 @@ def calculateTime():
         print("Uh Oh! We're in trouble!")
     elif monkey_one == "n" and monkey_two =="n":
         print("Uh Oh! We're in trouble!")
-    elif monkey_one == "n" and monkey_one == "y":
+    else:
         print("Yay! We're going to have a good day!")
-    elif monkey_one == "y" and monkey_two == "n":
-        print("Yay! We're going to have a good day!")
+  
 
 
     # end assignment
